@@ -9,6 +9,8 @@
    src="https://github-readme-stats.vercel.app/api?username=a3ka&show_icons=true&theme=tokyonight" 
 />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a3ka)](https://github.com/a3ka/github-readme-stats)
+
 <!--
 **a3ka/a3ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
